@@ -14,6 +14,26 @@ AI agents parse HTML structure to understand websites. They cannot "see" visual 
 
 One implementation serves three audiences: users with disabilities, search engines, and AI agents.
 
+## Repository Purpose and Structure
+
+**This is a reference library repository used as a git submodule, not a buildable project.**
+
+This repository exists for **separation of concerns** - keeping code examples version-controlled independently from build tooling and orchestration. Key characteristics:
+
+- **No package.json** - No npm packages, no dependencies, no scripts, no dependency management
+- **No build tooling** - Files are meant to be read and copied, not executed in place
+- **Reference focus** - Production-ready code examples for learning and adaptation
+- **Parent repository controls documentation** - Any build processes or linting are executed from the parent `invisible-users` repository
+
+To work with this content:
+
+1. **Read** the examples to understand AI-friendly patterns
+2. **Copy** relevant code into your production projects
+3. **Adapt** patterns to your specific frameworks and requirements
+4. Commit changes here first, then update the parent repository pointer
+
+See the parent repository's [CLAUDE.md](../../CLAUDE.md) and [docs/repo/GIT-README.md](../../docs/repo/GIT-README.md) for comprehensive guidance.
+
 ## Repository Structure
 
 ### agent-friendly-starter-kit/
@@ -45,21 +65,25 @@ This repository is a **reference library**, not a buildable project. Files are m
 ## Key Patterns Demonstrated
 
 **Semantic HTML:**
+
 - `<button>` vs `<div class="button">`
 - `<main>`, `<nav>`, `<article>` vs generic divs
 - Proper heading hierarchy (h1 → h2 → h3)
 
 **Explicit State:**
+
 - `data-state="loading"` vs CSS classes only
 - `aria-invalid="true"` vs red borders only
 - Persistent feedback vs toast notifications
 
 **Structured Data:**
+
 - Schema.org JSON-LD for products, articles, events
 - Proper form field naming (firstName, email vs input1, input2)
 - Machine-readable dates and prices
 
 **Accessibility Convergence:**
+
 - Patterns that help screen readers also help AI agents
 - One codebase serves human and machine audiences
 - No separate "AI version" required
