@@ -32,7 +32,7 @@ To work with this content:
 3. **Adapt** patterns to your specific frameworks and requirements
 4. Commit changes here first, then update the parent repository pointer
 
-See the parent repository's [CLAUDE.md](../../CLAUDE.md) and [docs/repo/GIT-README.md](../../docs/repo/GIT-README.md) for comprehensive guidance.
+See the parent repository's [CLAUDE.md](../../CLAUDE.md) and [docs/architecture/GIT-README.md](../../docs/architecture/GIT-README.md) for comprehensive guidance.
 
 ## Repository Structure
 
