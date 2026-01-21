@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": ["Product", "Book"],
-  "name": "The Invisible Users",
+  "name": "MX-Bible",
   "author": {
     "@type": "Person",
     "name": "Tom Cranstoun"

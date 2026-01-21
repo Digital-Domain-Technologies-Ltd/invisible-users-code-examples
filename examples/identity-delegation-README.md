@@ -4,7 +4,7 @@ Reference implementation for Chapter 13's "The Missing Identity Layer" section.
 
 ## ⚠️ Important Note
 
-This is a **simplified proof-of-concept** demonstrating the core principles described in "The Invisible Users." This code is educational only, showing how identity delegation patterns could work in practice.
+This is a **simplified proof-of-concept** demonstrating the core principles described in "MX-Bible." This code is educational only, showing how identity delegation patterns could work in practice.
 
 **Purpose:** Demonstrate the concepts discussed in the book for learning and experimentation.
 
@@ -400,7 +400,7 @@ This proof-of-concept will evolve into a comprehensive open-source project provi
 
 ## License
 
-This code is provided as a reference implementation for "The Invisible Users" book principles. Use freely for learning, experimentation, or as inspiration for production systems that preserve user agency and customer relationships.
+This code is provided as a reference implementation for "MX-Bible" book principles. Use freely for learning, experimentation, or as inspiration for production systems that preserve user agency and customer relationships.
 
 ## Contact
 

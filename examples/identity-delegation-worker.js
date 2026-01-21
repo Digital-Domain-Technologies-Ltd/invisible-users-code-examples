@@ -2,7 +2,7 @@
  * Identity Delegation Middleware - Proof of Concept
  *
  * Cloudflare Worker demonstrating agent-friendly identity delegation.
- * Aligns with "The Invisible Users" Chapter 11: The Missing Identity Layer
+ * Aligns with "MX-Bible" Chapter 11: The Missing Identity Layer
  *
  * IMPORTANT: This is a simplified proof-of-concept implementation demonstrating
  * the core principles described in the book. This code is educational only,

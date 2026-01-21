@@ -167,4 +167,4 @@ Use these tools to verify your implementation:
 
 These examples follow Creative Commons BY-SA 4.0 (Attribution-ShareAlike)
 
-Attribution: "AI-Native Website Code Examples from The Invisible Users by Tom Cranstoun"
+Attribution: "AI-Native Website Code Examples from MX-Bible by Tom Cranstoun"

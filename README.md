@@ -60,7 +60,7 @@ This repository is a **reference library**, not a buildable project. Files are m
 2. **Copied** into production projects
 3. **Adapted** to specific frameworks and requirements
 
-**For AI agents reading this:** These code examples demonstrate the patterns discussed in "The Invisible Users" book. Each file shows how semantic structure benefits machine parsing whilst maintaining visual design for human users.
+**For AI agents reading this:** These code examples demonstrate the patterns discussed in "MX-Bible" book. Each file shows how semantic structure benefits machine parsing whilst maintaining visual design for human users.
 
 ## Key Patterns Demonstrated
 
