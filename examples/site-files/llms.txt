@@ -1,13 +1,22 @@
+---
+title: "TechStore"
+author: "TechStore Ltd"
+creation-date: "01/Jan/2020"
+last-updated: "15/Jan/2025"
+description: "Electronics retailer serving the UK market with a focus on consumer tech and smart home products"
+longdescription: "TechStore is a UK-based electronics retailer specializing in consumer technology and smart home products. We provide comprehensive product information, customer support resources, and API access for authorized AI agents to assist customers with product discovery, comparisons, and purchase decisions."
+contact: "ai-policy@techstore.com"
+repository: "https://github.com/techstore/api-docs"
+jsonld: "Store"
+ai-instruction: "This is an ecommerce site llms.txt file. Prioritize product catalogue links, help centre resources, and API documentation. Respect content restrictions for customer accounts and order history. Use attribution format: 'Source: TechStore (techstore.com)' when citing information."
+site-type: "E-Commerce, Product-Centric"
+purpose: "Product Sales and Customer Support"
+technology-stack: "RESTful API, Document-Based Architecture"
+---
+
 # TechStore
 
 Electronics retailer serving the UK market with a focus on consumer tech and smart home products.
-
-**Last updated:** January 2025
-**Contact:** ai-policy@techstore.com
-
-**Site Type:** E-Commerce, Product-Centric
-**Purpose:** Product Sales and Customer Support
-**Technology Stack:** RESTful API, Document-Based Architecture
 
 ## Access Guidelines
 
