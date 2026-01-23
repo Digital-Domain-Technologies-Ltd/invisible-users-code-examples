@@ -1,14 +1,14 @@
-# Identity Delegation Implementation - Proof of Concept
+# EAL Delegation Implementation - Proof of Concept
 
-Reference implementation for Chapter 13's "The Missing Identity Layer" section.
+Reference implementation for Chapter 13's "The Missing Entity Asset Layer (EAL)" section.
 
 ## ⚠️ Important Note
 
-This is a **simplified proof-of-concept** demonstrating the core principles described in "MX-Bible." This code is educational only, showing how identity delegation patterns could work in practice.
+This is a **simplified proof-of-concept** demonstrating the core principles described in "MX-Bible." This code is educational only, showing how EAL delegation patterns could work in practice.
 
 **Purpose:** Demonstrate the concepts discussed in the book for learning and experimentation.
 
-A production-ready identity delegation system would require:
+A production-ready EAL delegation system would require:
 
 - Battle-tested security implementations
 - Multi-platform token provider support
@@ -44,7 +44,7 @@ This implementation demonstrates the book's core principle: **businesses should 
 
 ## How This Differs from Detection Approaches
 
-| Detection Approach | Identity Delegation Approach |
+| Detection Approach | EAL Delegation Approach |
 | ------------------ | ---------------------------- |
 | Fingerprint browser entropy | Accept explicit agent headers |
 | Flag headless/automation | Verify delegation tokens |
@@ -368,7 +368,7 @@ This proof-of-concept demonstrates the pattern. Production systems need:
 - Rate limiting and abuse prevention
 - User-facing delegation management UI
 
-**The full identity delegation infrastructure will be developed as a future open-source project.** If you're interested in contributing to the production-ready implementation, see Chapter 13's "What Comes Next" section for collaboration opportunities.
+**The full EAL delegation infrastructure will be developed as a future open-source project.** If you're interested in contributing to the production-ready implementation, see Chapter 13's "What Comes Next" section for collaboration opportunities.
 
 ## Future Development
 
@@ -404,7 +404,7 @@ This code is provided as a reference implementation for "MX-Bible" book principl
 
 ## Contact
 
-Questions about identity delegation patterns:
+Questions about EAL delegation patterns:
 
 - Email: <tom.cranstoun@gmail.com>
 - Website: <https://allabout.network>
