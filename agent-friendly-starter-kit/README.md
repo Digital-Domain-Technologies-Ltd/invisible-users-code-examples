@@ -1,3 +1,13 @@
+---
+title: "Agent-Friendly Starter Kit"
+description: "Before-and-after demo comparing an agent-hostile website with an agent-optimised version"
+author: Tom Cranstoun
+created: 2026-01-15
+modified: 2026-02-09
+version: "1.0"
+status: draft
+---
+
 # Agent-Friendly Starter Kit
 
 This repository demonstrates the difference between a website that is hostile to AI agents and one that is optimized for them.

@@ -1,3 +1,13 @@
+---
+title: "EAL Delegation Implementation"
+description: "Proof of concept demonstrating entity asset layer delegation patterns from Chapter 13"
+author: Tom Cranstoun
+created: 2026-01-15
+modified: 2026-02-09
+version: "1.0"
+status: draft
+---
+
 # EAL Delegation Implementation - Proof of Concept
 
 Reference implementation for Chapter 13's "The Missing Entity Asset Layer (EAL)" section.

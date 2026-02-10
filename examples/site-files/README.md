@@ -1,3 +1,13 @@
+---
+title: "Essential Site Files for AI Agent Compatibility"
+description: "Root-level configuration files (robots.txt, llms.txt) for guiding AI agents and crawlers"
+author: Tom Cranstoun
+created: 2026-01-15
+modified: 2026-02-09
+version: "1.0"
+status: draft
+---
+
 # Essential Site Files for AI Agent Compatibility
 
 This directory contains essential configuration files that belong in the root of your website to guide AI agents and search engines.

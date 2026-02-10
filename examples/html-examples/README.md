@@ -1,3 +1,13 @@
+---
+title: "HTML Examples for AI-Native Web Design"
+description: "Production-ready HTML patterns using explicit state, semantic elements, and persistent errors"
+author: Tom Cranstoun
+created: 2026-01-15
+modified: 2026-02-09
+version: "1.0"
+status: draft
+---
+
 # HTML Examples for AI-Native Web Design
 
 This directory contains production-ready HTML patterns for building websites that work seamlessly for both human users and AI agents.

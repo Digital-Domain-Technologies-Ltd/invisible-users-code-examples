@@ -1,3 +1,13 @@
+---
+title: "Diff Guide: From Blocking to Agent-Friendly"
+description: "Detailed walkthrough of changes transforming a blocking website into a machine-readable resource"
+author: Tom Cranstoun
+created: 2026-01-15
+modified: 2026-02-09
+version: "1.0"
+status: draft
+---
+
 # Diff Guide: From Blocking to Agent-Friendly
 
 This guide explains the changes made to transform "Luigi's Pizza" from a blocker for AI agents into a machine-readable resource.

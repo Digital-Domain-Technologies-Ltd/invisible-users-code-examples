@@ -1,3 +1,13 @@
+---
+title: "AI-Native Website Code Examples"
+description: "Platform-specific code examples for implementing AI-native web patterns"
+author: Tom Cranstoun
+created: 2026-01-15
+modified: 2026-02-09
+version: "1.0"
+status: draft
+---
+
 # AI-Native Website Code Examples
 
 This directory contains platform-specific code examples for implementing the patterns described in "The Complete Guide to Building an AI-Native Website" (AI-Native.blog).
