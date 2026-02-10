@@ -23,12 +23,14 @@ This directory contains essential configuration files that belong in the root of
 **Score Impact:** +25 points (Recipe 7, Appendix A)
 
 **Key features:**
+
 - Controls which paths AI agents can access
 - Separates public content (products, reviews) from private areas (admin, accounts)
 - Includes specific rules for major AI agents (GPTBot, ClaudeBot, PerplexityBot, OAI-SearchBot)
 - References sitemap.xml for content discovery
 
 **Customization required:**
+
 - Replace `example.com` with your actual domain
 - Adjust `/products/`, `/categories/`, `/reviews/` paths to match your site structure
 - Update contact email in header comment
@@ -43,6 +45,7 @@ This directory contains essential configuration files that belong in the root of
 **Score Impact:** +20 points (Recipe 8, Appendix A)
 
 **Key features:**
+
 - Site description and purpose
 - Rate limiting and caching policies
 - Content usage permissions
@@ -52,6 +55,7 @@ This directory contains essential configuration files that belong in the root of
 - Contact information for AI-related inquiries
 
 **Customization required:**
+
 - Replace `TechStore` with your site/company name
 - Update all `techstore.com` URLs to your domain
 - Adjust rate limits based on your infrastructure capacity
@@ -61,6 +65,7 @@ This directory contains essential configuration files that belong in the root of
 - Replace all email addresses with your actual contact addresses
 
 **Site type categories** (choose one for your llms.txt):
+
 - API-Driven: Technical documentation, service interfaces
 - Content-Driven: Blogs, news, informational sites
 - E-Commerce: Product and service sales
@@ -69,6 +74,7 @@ This directory contains essential configuration files that belong in the root of
 - Entertainment: Media, games, leisure content
 
 **Functionality types** (choose one):
+
 - Static: Fixed content, minimal dynamic features
 - Dynamic: Content changes based on interaction
 - Interactive: Forms, calculators, user input
@@ -131,6 +137,7 @@ Link: <https://yoursite.com/llms.txt>; rel="llms-txt"
 ### E-commerce Site
 
 Use the provided templates as-is (TechStore example), adjusting:
+
 - Product/category paths
 - API endpoints
 - Rate limits based on capacity
@@ -138,6 +145,7 @@ Use the provided templates as-is (TechStore example), adjusting:
 ### Content/Blog Site
 
 Modify llms.txt to emphasize:
+
 - Article accessibility
 - Attribution requirements
 - Training data permissions
@@ -146,6 +154,7 @@ Modify llms.txt to emphasize:
 ### Local Business
 
 Simplify llms.txt to focus on:
+
 - Business hours and location
 - Services offered
 - Contact information
@@ -154,6 +163,7 @@ Simplify llms.txt to focus on:
 ### SaaS/API Service
 
 Emphasize in llms.txt:
+
 - API documentation links
 - Authentication methods
 - Rate limits and pricing tiers
